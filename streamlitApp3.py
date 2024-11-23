@@ -1,6 +1,7 @@
 import streamlit as st
 import subprocess
 import os
+from face_reco import run_face_reco
 
 
 # Define a function to run the model
